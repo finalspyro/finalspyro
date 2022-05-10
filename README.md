@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @finalspyro
+- 👀 I’m interested in ... SuperCollider, Java, Apex, and Vim
+- 🌱 I’m currently learning ... Vim
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... @finalspy2 on Twitter
